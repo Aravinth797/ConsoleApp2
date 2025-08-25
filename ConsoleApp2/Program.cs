@@ -18,3 +18,10 @@ void MyThirdMethod()
 }  
 
 MyThirdMethod();
+
+void MyFourthMethod()
+{
+    Console.WriteLine("Hello, World!");
+}       
+
+MyFourthMethod();
