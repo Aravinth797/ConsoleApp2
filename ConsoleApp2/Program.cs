@@ -33,3 +33,10 @@ void MyFifthMethod()
 }
 
 MyFifthMethod();
+
+void MySixthMethod()
+{
+    Console.WriteLine("Hello, World!");
+}
+
+MySixthMethod();
