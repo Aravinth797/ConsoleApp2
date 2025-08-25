@@ -25,3 +25,11 @@ void MyFourthMethod()
 }       
 
 MyFourthMethod();
+
+
+void MyFifthMethod()
+{
+    Console.WriteLine("Hello, World!");
+}
+
+MyFifthMethod();
